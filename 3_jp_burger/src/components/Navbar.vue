@@ -4,7 +4,7 @@
             <img :src="logo" :alt="alt" id="logo">
         </router-link>
         <router-link to="/">Home</router-link>
-        <router-link to="/about">Pedidos</router-link>
+        <router-link to="/pedidos">Pedidos</router-link>
     </div>
 </template>
 

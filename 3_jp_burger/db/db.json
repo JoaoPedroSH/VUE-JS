@@ -87,20 +87,8 @@
         "Cheddar",
         "Salame"
       ],
-      "status": "Solicitado",
+      "status": "Finalizado",
       "id": 1
-    },
-    {
-      "nome": "João Pedro",
-      "carne": "Maminha",
-      "pao": "Integral",
-      "opcionais": [
-        "Cebola roxa",
-        "Tomate",
-        "Pepino"
-      ],
-      "status": "Solicitado",
-      "id": 2
     }
   ]
 }

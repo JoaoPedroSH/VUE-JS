@@ -1,19 +1,10 @@
 # 3_jp_burger
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
+### Iniciar Front (Vue)
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
+### Iniciar Back (Json)
 ```
-npm run build
+npm run backend
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
