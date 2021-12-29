@@ -77,30 +77,5 @@
       "tipo": "Finalizado"
     }
   ],
-  "burgers": [
-    {
-      "nome": "João Pedro",
-      "carne": "Picanha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon",
-        "Cheddar",
-        "Salame"
-      ],
-      "status": "Solicitado",
-      "id": 1
-    },
-    {
-      "nome": "João Pedro",
-      "carne": "Maminha",
-      "pao": "Integral",
-      "opcionais": [
-        "Cebola roxa",
-        "Tomate",
-        "Pepino"
-      ],
-      "status": "Solicitado",
-      "id": 2
-    }
-  ]
+  "burgers": []
 }
